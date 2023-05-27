@@ -1,0 +1,17 @@
+C:\Users\JOHNI\source\repos\calculatrice 2\calculatrice 2\bin\Debug\net6.0-windows\calculatrice 2.exe
+C:\Users\JOHNI\source\repos\calculatrice 2\calculatrice 2\bin\Debug\net6.0-windows\calculatrice 2.deps.json
+C:\Users\JOHNI\source\repos\calculatrice 2\calculatrice 2\bin\Debug\net6.0-windows\calculatrice 2.runtimeconfig.json
+C:\Users\JOHNI\source\repos\calculatrice 2\calculatrice 2\bin\Debug\net6.0-windows\calculatrice 2.dll
+C:\Users\JOHNI\source\repos\calculatrice 2\calculatrice 2\bin\Debug\net6.0-windows\calculatrice 2.pdb
+C:\Users\JOHNI\source\repos\calculatrice 2\calculatrice 2\obj\Debug\net6.0-windows\calculatrice 2.vbproj.AssemblyReference.cache
+C:\Users\JOHNI\source\repos\calculatrice 2\calculatrice 2\obj\Debug\net6.0-windows\calculatrice_2.Form1.resources
+C:\Users\JOHNI\source\repos\calculatrice 2\calculatrice 2\obj\Debug\net6.0-windows\calculatrice 2.vbproj.GenerateResource.cache
+C:\Users\JOHNI\source\repos\calculatrice 2\calculatrice 2\obj\Debug\net6.0-windows\calculatrice 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOHNI\source\repos\calculatrice 2\calculatrice 2\obj\Debug\net6.0-windows\calculatrice 2.AssemblyInfoInputs.cache
+C:\Users\JOHNI\source\repos\calculatrice 2\calculatrice 2\obj\Debug\net6.0-windows\calculatrice 2.AssemblyInfo.vb
+C:\Users\JOHNI\source\repos\calculatrice 2\calculatrice 2\obj\Debug\net6.0-windows\calculatrice 2.vbproj.CoreCompileInputs.cache
+C:\Users\JOHNI\source\repos\calculatrice 2\calculatrice 2\obj\Debug\net6.0-windows\calculatrice 2.dll
+C:\Users\JOHNI\source\repos\calculatrice 2\calculatrice 2\obj\Debug\net6.0-windows\refint\calculatrice 2.dll
+C:\Users\JOHNI\source\repos\calculatrice 2\calculatrice 2\obj\Debug\net6.0-windows\calculatrice 2.pdb
+C:\Users\JOHNI\source\repos\calculatrice 2\calculatrice 2\obj\Debug\net6.0-windows\calculatrice 2.genruntimeconfig.cache
+C:\Users\JOHNI\source\repos\calculatrice 2\calculatrice 2\obj\Debug\net6.0-windows\ref\calculatrice 2.dll
